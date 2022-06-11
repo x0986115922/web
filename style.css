@@ -1,17 +1,14 @@
 body{
-	text-align: right;
+  text-align: center;
 }
-.btn{
-	border: solid 3px black;
-	width: 100px;
-	height: 100px;
-	display: inline;
-	font-size: 30px;
-	color: red;
-	background-color: #9fffff;
+.ncyu{
+  border : solid 1px red;
+  display : inline;
+  color : white;
+  font-size : 30px;
+  background : red
 
 }
-h1{
-	font-size: 90px;
-	font-family: 標楷體;
+h2{
+  color: green;
 }
